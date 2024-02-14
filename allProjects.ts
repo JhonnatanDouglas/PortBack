@@ -7,6 +7,7 @@
       'O projeto Kenzie Feed é um projeto de jornal online desenvolvido em grupo. A aplicação tem funcionalidades administrativas e consome dados de uma API, proporcionando uma experiência prática em desenvolvimento web.',
     repository: 'https://github.com/grupo7-T17/kenzie-feed',
     page: 'https://kenziefeed.vercel.app/',
+    img: 'https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/kenzieFeedLight.png',
     techs: [
       { backend: [] },
       {
@@ -37,6 +38,7 @@
     repository:
       'https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub_JhonnatanDouglas',
     page: 'https://kenzie-hub-react-red.vercel.app/',
+    img: 'https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/kenzieHubLight.png',
     techs: [
       { backend: [] },
       {
@@ -67,6 +69,7 @@
       'https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-template-nu-kenzie_JhonnatanDouglas',
 
     page: 'https://nu-kenzie-plum-seven.vercel.app/',
+    img: 'https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/nuKenzieLight.png',
     techs: [
       { backend: [] },
       {
@@ -91,6 +94,7 @@
       'O projeto Kanvas é uma API REST desenvolvida em Python com o framework Django e Django Rest Framework (DRF) para o gerenciamento de cursos e aulas em uma escola de modalidade EAD.',
     repository:
       'https://github.com/JhonnatanDouglas/m5-sp6-projeto-final-kanvas',
+    img: 'https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/backendImg.png',
     techs: [
       {
         backend: [
@@ -113,6 +117,7 @@
     description:
       'O Projeto BandKamp foi desenvolvido para atender às necessidades de entusiastas da música, artistas e amantes da música que desejam gerenciar suas coleções de álbuns e músicas de forma eficaz e organizada.',
     repository: 'https://github.com/JhonnatanDouglas/m5-sp5-bandkamp',
+    img: 'https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/backendImg.png',
     techs: [
       {
         backend: [
@@ -139,6 +144,7 @@
     description:
       'Este é um projeto semanal que tem como objetivo desenvolver um sistema com Django e Django Rest Framework (DRF) para criar um sistema de gerenciamento de usuários e filmes.',
     repository: 'https://github.com/JhonnatanDouglas/m5-sp4-kenzie-buster',
+    img: 'https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/backendImg.png',
     techs: [
       {
         backend: [
@@ -163,6 +169,7 @@
       'https://github.com/JhonnatanDouglas/M6-S01-02_ProjetoFullStack_JhonnatanDouglas_',
     figma:
       'https://www.figma.com/file/zWNHZTOPqTqZny6OaF8SG0/Agenda-de-Contatos?type=design&node-id=0%3A1&mode=design&t=0rl7sjE3LVl3As6G-1',
+    img: 'https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/agendaDeContatos.png',
     techs: [
       {
         backend: [

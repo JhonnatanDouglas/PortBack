@@ -26,3 +26,15 @@ interface iSkillTechs {
   id: number;
   name: string;
 }
+
+type iTechItem = {
+  id: string;
+  name: string;
+  link: string;
+};
+
+type iTechCategory = {
+  id: number;
+  stack: 'frontend' | 'backend' | 'extra';
+  list: iTechItem[];
+};
