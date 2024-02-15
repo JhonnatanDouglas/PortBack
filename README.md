@@ -28,20 +28,20 @@ https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/darkmode/sun.sv
 
 #### `Para o Footer`
 
-https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allFooterSocialLinks.ts
+https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allFooterSocialLinks.json
 
 #### `Para todos os Projetos`
 
-https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allProjects.ts
+https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allProjects.json
 
 #### `Para todas as habilidades`
 
-https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allSkillsList.ts
+https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allSkillsList.json
 
 #### `Para todos os links sociais`
 
-https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allSocialLinks.ts
+https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allSocialLinks.json
 
 #### `Para para todas as linguagens de conhecimento pessoal`
 
-https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsList.ts
+https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsList.json
