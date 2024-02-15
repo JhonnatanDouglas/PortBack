@@ -1,0 +1,19 @@
+[
+  { "id": 1, "name": "Web Semântica" },
+  { "id": 2, "name": "Lógica de programação" },
+  { "id": 3, "name": "Controle de versão com git" },
+  { "id": 4, "name": "Programação Funcional" },
+  { "id": 5, "name": "Noções de UX" },
+  { "id": 6, "name": "Noções de UI" },
+  { "id": 7, "name": "Metodologias Ágeis" },
+  { "id": 8, "name": "Hooks" },
+  { "id": 9, "name": "State Management" },
+  { "id": 10, "name": "Consumo de APIs" },
+  { "id": 12, "name": "Banco de dados SQL" },
+  { "id": 13, "name": "Construção de APIs RESTful" },
+  { "id": 14, "name": "Programação assíncrona" },
+  { "id": 15, "name": "Programação Orientada a Objetos" },
+  { "id": 16, "name": "APIs (Application Programming Interfaces)" },
+  { "id": 17, "name": "Scrum" },
+  { "id": 18, "name": "Componentização (bibliotecas de componentes)" }
+]
