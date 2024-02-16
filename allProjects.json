@@ -150,7 +150,7 @@
     ]
   },
   {
-    "id": "agendaDeContatosFront",
+    "id": "agendaDeContatos",
     "stack": "fullstack",
     "title": "Projeto FullStack - Agenda de Contatos",
     "description": "O projeto Agenda de Contatos é um projeto FullStack que oferece funcionalidades de gerenciamento de usuários, contatos, autenticação e interação com um banco de dados PostgreSQL. O Back-End foi desenvolvido em TypeScript/JavaScript usando o framework Express, enquanto o Front-End é construído com React e TypeScript/JavaScript.",
