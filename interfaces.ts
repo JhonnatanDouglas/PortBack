@@ -3,16 +3,19 @@ type iTechStack = {
   frontend: string[];
 };
 
-type iProject = {
+interface iProjects {
   id: string;
   stack: string;
   title: string;
   description: string;
   repository: string;
+  img: string;
+  alt: string;
+  artCreatorBy: string;
   page?: string;
   figma?: string;
-  techs: iTechStack[];
-};
+  techs: iTechStack;
+}
 
 interface iSocialLinks {
   id: number;
