@@ -6,56 +6,67 @@
       {
         "id": "html5",
         "name": "HTML5",
+        "alt": "HTML5 Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/01-html5.png"
       },
       {
         "id": "css3",
         "name": "CSS3",
+        "alt": "CSS3 Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/02-css3.png"
       },
       {
         "id": "javascript",
         "name": "JavaScript",
+        "alt": "JavaScript Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/03-javascript.png"
       },
       {
         "id": "typescript",
         "name": "TypeScript",
+        "alt": "TypeScript Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/04-typescript.png"
       },
       {
         "id": "next_js",
         "name": "Next.Js",
+        "alt": "Next.Js Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/05-next_js.png"
       },
       {
         "id": "react",
         "name": "React.Js",
+        "alt": "React.Js Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/06-react.png"
       },
       {
         "id": "react_router",
         "name": "React Router",
+        "alt": "React Router Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/07-react_router.png"
       },
       {
         "id": "react_hook_form",
         "name": "React Hook Form",
+        "alt": "React Hook Form Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/08-react_hook_form.png"
       },
       {
         "id": "tailwind",
         "name": "Tailwind CSS",
+        "alt": "Tailwind CSS Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/09-tailwind.png"
       },
       {
         "id": "bootstrap",
         "name": "Bootstrap",
+        "alt": "Bootstrap Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/10-bootstrap.png"
       },
       {
         "id": "styled_components",
         "name": "Styled Components",
+        "alt": "Styled Components Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/frontend/11-styled_components.png"
       }
     ]
@@ -67,41 +78,49 @@
       {
         "id": "node_js",
         "name": "Node.js",
+        "alt": "Node.js Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/backend/01-node_js.png"
       },
       {
         "id": "sqlite",
         "name": "SQLite",
+        "alt": "SQLite Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/backend/02-sqlite.png"
       },
       {
         "id": "postgreSQL",
         "name": "PostgreSQL",
+        "alt": "PostgreSQL Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/backend/03-postgreSQL.png"
       },
       {
         "id": "express_js",
         "name": "Express.Js",
+        "alt": "Express.Js Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/backend/04-express_js.png"
       },
       {
         "id": "python",
         "name": "Python",
+        "alt": "Python Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/backend/05-python.png"
       },
       {
         "id": "django",
         "name": "Django",
+        "alt": "Django Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/backend/06-django.png"
       },
       {
         "id": "django_rest_framework",
         "name": "Django REST Framework",
+        "alt": "Django REST Framework Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/backend/07-django_rest_framework.png"
       },
       {
         "id": "docker",
         "name": "Docker",
+        "alt": "Docker Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/backend/08-docker.png"
       }
     ]
@@ -113,36 +132,43 @@
       {
         "id": "git",
         "name": "Git",
+        "alt": "Git Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/extra/01-git.png"
       },
       {
         "id": "github",
         "name": "GitHub",
+        "alt": "GitHub Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/extra/02-github.png"
       },
       {
         "id": "vite",
         "name": "Vite",
+        "alt": "Vite Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/extra/03-vite.png"
       },
       {
         "id": "figma",
         "name": "Figma",
+        "alt": "Figma Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/extra/04-figma.png"
       },
       {
         "id": "insomnia",
         "name": "Insomnia",
+        "alt": "Insomnia Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/extra/05-insomnia.png"
       },
       {
         "id": "slack",
         "name": "Slack",
+        "alt": "Slack Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/extra/06-slack.png"
       },
       {
         "id": "trello",
         "name": "Trello",
+        "alt": "Trello Icon",
         "link": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/allTechsImages/extra/07-trello.png"
       }
     ]
