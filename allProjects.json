@@ -1,6 +1,6 @@
 [
   {
-    "id": "kenzieFeed",
+    "id": 1,
     "stack": "frontend",
     "title": "Kenzie Feed - Jornal Online",
     "description": "O projeto Kenzie Feed é um projeto de jornal online desenvolvido em grupo. A aplicação tem funcionalidades administrativas e consome dados de uma API, proporcionando uma experiência prática em desenvolvimento web.",
@@ -9,29 +9,27 @@
     "img": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/kenzieFeedLight.png",
     "alt": "Arte Criada por Jhonnatan Douglas | Portfólio - Jhonnatan Douglas Ferreira Araujo - Desenvolvedor Web FullStack, Back-End e Front-End - Kenzie Academy Brasil - Programador Web",
     "artCreatorBy": "Arte Criada por Jhonnatan Douglas",
-    "techs": [
-      { "backend": [] },
-      {
-        "frontend": [
-          "React",
-          "TypeScript",
-          "JavaScript ES6 Assíncrono",
-          "HTML5",
-          "CSS3",
-          "Responsividade",
-          "Metodologia BEM",
-          "Styled-components",
-          "API",
-          "React-hook-form",
-          "React-router-dom",
-          "Axios",
-          "Zod"
-        ]
-      }
-    ]
+    "techs": {
+      "backend": [],
+      "frontend": [
+        { "id": 1, "name": "React" },
+        { "id": 2, "name": "TypeScript" },
+        { "id": 3, "name": "JavaScript ES6 Assíncrono" },
+        { "id": 4, "name": "HTML5" },
+        { "id": 5, "name": "CSS3" },
+        { "id": 6, "name": "Responsividade" },
+        { "id": 7, "name": "Metodologia BEM" },
+        { "id": 8, "name": "Styled-components" },
+        { "id": 9, "name": "API" },
+        { "id": 10, "name": "React-hook-form" },
+        { "id": 11, "name": "React-router-dom" },
+        { "id": 12, "name": "Axios" },
+        { "id": 13, "name": "Zod" }
+      ]
+    }
   },
   {
-    "id": "kenzieHub",
+    "id": 2,
     "stack": "frontend",
     "title": "Kenzie Hub - Rede Social",
     "description": "O projeto Kenzie Hub simula uma rede social, permitindo criar conta, fazer login e gerenciar a dashboard do usuário. Os usuários podem criar, editar e excluir Cards na página de Dashboard, detalhando suas habilidades em tecnologias.",
@@ -40,28 +38,26 @@
     "img": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/kenzieHubLight.png",
     "alt": "Arte Criada por Jhonnatan Douglas | Portfólio - Jhonnatan Douglas Ferreira Araujo - Desenvolvedor Web FullStack, Back-End e Front-End - Kenzie Academy Brasil - Programador Web",
     "artCreatorBy": "Arte Criada por Jhonnatan Douglas",
-    "techs": [
-      { "backend": [] },
-      {
-        "frontend": [
-          "React",
-          "JavaScript ES6 Assíncrono",
-          "HTML5",
-          "CSS3",
-          "Responsividade",
-          "Metodologia BEM",
-          "Styled-components",
-          "API",
-          "React-hook-form",
-          "React-router-dom",
-          "Axios",
-          "Zod"
-        ]
-      }
-    ]
+    "techs": {
+      "backend": [],
+      "frontend": [
+        { "id": 1, "name": "React" },
+        { "id": 2, "name": "JavaScript ES6 Assíncrono" },
+        { "id": 3, "name": "HTML5" },
+        { "id": 4, "name": "CSS3" },
+        { "id": 5, "name": "Responsividade" },
+        { "id": 6, "name": "Metodologia BEM" },
+        { "id": 7, "name": "Styled-components" },
+        { "id": 8, "name": "API" },
+        { "id": 9, "name": "React-hook-form" },
+        { "id": 10, "name": "React-router-dom" },
+        { "id": 11, "name": "Axios" },
+        { "id": 12, "name": "Zod" }
+      ]
+    }
   },
   {
-    "id": "nuKenzie",
+    "id": 3,
     "stack": "frontend",
     "title": "Nu Kenzie - Gerenciamento Financeiro",
     "description": "O projeto Nu Kenzie foca na adição e remoção de entradas e despesas, conforme escolhas do usuário. A aplicação informa o valor total disponível na conta. É um projeto simples e prático para gerenciar as transações financeiras.",
@@ -70,24 +66,22 @@
     "img": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/nuKenzieLight.png",
     "alt": "Arte Criada por Jhonnatan Douglas | Portfólio - Jhonnatan Douglas Ferreira Araujo - Desenvolvedor Web FullStack, Back-End e Front-End - Kenzie Academy Brasil - Programador Web",
     "artCreatorBy": "Arte Criada por Jhonnatan Douglas",
-    "techs": [
-      { "backend": [] },
-      {
-        "frontend": [
-          "React",
-          "JavaScript ES6",
-          "HTML5",
-          "CSS3",
-          "Responsividade",
-          "Metodologia BEM",
-          "Styled-components",
-          "uuid"
-        ]
-      }
-    ]
+    "techs": {
+      "backend": [],
+      "frontend": [
+        { "id": 1, "name": "React" },
+        { "id": 2, "name": "JavaScript ES6" },
+        { "id": 3, "name": "HTML5" },
+        { "id": 4, "name": "CSS3" },
+        { "id": 5, "name": "Responsividade" },
+        { "id": 6, "name": "Metodologia BEM" },
+        { "id": 7, "name": "Styled-components" },
+        { "id": 8, "name": "uuid" }
+      ]
+    }
   },
   {
-    "id": "kanvas",
+    "id": 4,
     "stack": "backend",
     "title": "Kanvas - API de Gerenciamento de Cursos EAD",
     "description": "O projeto Kanvas é uma API REST desenvolvida em Python com o framework Django e Django Rest Framework (DRF) para o gerenciamento de cursos e aulas em uma escola de modalidade EAD.",
@@ -95,23 +89,24 @@
     "img": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/backendImg.png",
     "alt": "Arte gratuita | Portfólio - Jhonnatan Douglas Ferreira Araujo - Desenvolvedor Web FullStack, Back-End e Front-End - Kenzie Academy Brasil - Programador Web",
     "artCreatorBy": "Arte gratuita",
-    "techs": [
-      {
-        "backend": [
-          "Python",
-          "Django",
-          "Drf-spectacular (Documentação)",
-          "PostgreSQL (Banco de Dados)",
-          "Gunicorn (Servidor Web)",
-          "Django Rest Framework (DRF)",
-          "Outras bibliotecas listadas em \"requirements.txt\""
-        ]
-      },
-      { "frontend": [] }
-    ]
+    "techs": {
+      "backend": [
+        { "id": 1, "name": "Python" },
+        { "id": 2, "name": "Django" },
+        { "id": 3, "name": "Drf-spectacular (Documentação)" },
+        { "id": 4, "name": "PostgreSQL (Banco de Dados)" },
+        { "id": 5, "name": "Gunicorn (Servidor Web)" },
+        { "id": 6, "name": "Django Rest Framework (DRF)" },
+        {
+          "id": 7,
+          "name": "Outras bibliotecas listadas em 'requirements.txt'"
+        }
+      ],
+      "frontend": []
+    }
   },
   {
-    "id": "bandKamp",
+    "id": 5,
     "stack": "backend",
     "title": "BandKamp - API de Gerenciamento de Músicas",
     "description": "O Projeto BandKamp foi desenvolvido para atender às necessidades de entusiastas da música, artistas e amantes da música que desejam gerenciar suas coleções de álbuns e músicas de forma eficaz e organizada.",
@@ -119,27 +114,25 @@
     "img": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/backendImg.png",
     "alt": "Arte gratuita | Portfólio - Jhonnatan Douglas Ferreira Araujo - Desenvolvedor Web FullStack, Back-End e Front-End - Kenzie Academy Brasil - Programador Web",
     "artCreatorBy": "Arte gratuita",
-    "techs": [
-      {
-        "backend": [
-          "Python",
-          "Django",
-          "Django REST framework (DRF)",
-          "Gunicorn (Servidor Web)",
-          "Whitenoise",
-          "IPython",
-          "Ipdb",
-          "SQLite (Banco de Dados)",
-          "Python-dotenv",
-          "Drf-spectacular (Documentação)",
-          "Djangorestframework-simplejwt"
-        ]
-      },
-      { "frontend": [] }
-    ]
+    "techs": {
+      "backend": [
+        { "id": 1, "name": "Python" },
+        { "id": 2, "name": "Django" },
+        { "id": 3, "name": "Django REST framework (DRF)" },
+        { "id": 4, "name": "Gunicorn (Servidor Web)" },
+        { "id": 5, "name": "Whitenoise" },
+        { "id": 6, "name": "IPython" },
+        { "id": 7, "name": "Ipdb" },
+        { "id": 8, "name": "SQLite (Banco de Dados)" },
+        { "id": 9, "name": "Python-dotenv" },
+        { "id": 10, "name": "Drf-spectacular (Documentação)" },
+        { "id": 11, "name": "Djangorestframework-simplejwt" }
+      ],
+      "frontend": []
+    }
   },
   {
-    "id": "kenzieBuster",
+    "id": 6,
     "stack": "backend",
     "title": "Kenzie Buster - API de Gerenciamento de Filmes e Usuários",
     "description": "Este é um projeto semanal que tem como objetivo desenvolver um sistema com Django e Django Rest Framework (DRF) para criar um sistema de gerenciamento de usuários e filmes.",
@@ -147,22 +140,20 @@
     "img": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/backendImg.png",
     "alt": "Arte gratuita | Portfólio - Jhonnatan Douglas Ferreira Araujo - Desenvolvedor Web FullStack, Back-End e Front-End - Kenzie Academy Brasil - Programador Web",
     "artCreatorBy": "Arte gratuita",
-    "techs": [
-      {
-        "backend": [
-          "Python",
-          "Django REST framework",
-          "Django",
-          "Django REST Framework Simple JWT",
-          "IPython",
-          "SQLite (Banco de Dados)"
-        ]
-      },
-      { "frontend": [] }
-    ]
+    "techs": {
+      "backend": [
+        { "id": 1, "name": "Python" },
+        { "id": 2, "name": "Django REST framework" },
+        { "id": 3, "name": "Django" },
+        { "id": 4, "name": "Django REST Framework Simple JWT" },
+        { "id": 5, "name": "IPython" },
+        { "id": 6, "name": "SQLite (Banco de Dados)" }
+      ],
+      "frontend": []
+    }
   },
   {
-    "id": "agendaDeContatos",
+    "id": 7,
     "stack": "fullstack",
     "title": "Projeto FullStack - Agenda de Contatos",
     "description": "O projeto Agenda de Contatos é um projeto FullStack que oferece funcionalidades de gerenciamento de usuários, contatos, autenticação e interação com um banco de dados PostgreSQL. O Back-End foi desenvolvido em TypeScript/JavaScript usando o framework Express, enquanto o Front-End é construído com React e TypeScript/JavaScript.",
@@ -171,32 +162,28 @@
     "img": "https://raw.githubusercontent.com/JhonnatanDouglas/PortBack/main/showImageProject/agendaDeContatos.png",
     "alt": "Arte Criada por Jhonnatan Douglas | Portfólio - Jhonnatan Douglas Ferreira Araujo - Desenvolvedor Web FullStack, Back-End e Front-End - Kenzie Academy Brasil - Programador Web",
     "artCreatorBy": "Arte Criada por Jhonnatan Douglas",
-    "techs": [
-      {
-        "backend": [
-          "Bcryptjs",
-          "Dotenv",
-          "Express",
-          "Express-async-errors",
-          "Jsonwebtoken",
-          "Pg",
-          "Pg-format",
-          "Reflect-metadata",
-          "Typeorm",
-          "Zod"
-        ]
-      },
-      {
-        "frontend": [
-          "React",
-          "React-hook-form",
-          "React-modal",
-          "React-router-dom",
-          "React-to-pdf",
-          "React-toastify",
-          "Zod"
-        ]
-      }
-    ]
+    "techs": {
+      "backend": [
+        { "id": 1, "name": "Bcryptjs" },
+        { "id": 2, "name": "Dotenv" },
+        { "id": 3, "name": "Express" },
+        { "id": 4, "name": "Express-async-errors" },
+        { "id": 5, "name": "Jsonwebtoken" },
+        { "id": 6, "name": "Pg" },
+        { "id": 7, "name": "Pg-format" },
+        { "id": 8, "name": "Reflect-metadata" },
+        { "id": 9, "name": "Typeorm" },
+        { "id": 10, "name": "Zod" }
+      ],
+      "frontend": [
+        { "id": 1, "name": "React" },
+        { "id": 2, "name": "React-hook-form" },
+        { "id": 3, "name": "React-modal" },
+        { "id": 4, "name": "React-router-dom" },
+        { "id": 5, "name": "React-to-pdf" },
+        { "id": 6, "name": "React-toastify" },
+        { "id": 7, "name": "Zod" }
+      ]
+    }
   }
 ]
